@@ -13,5 +13,5 @@ TARGET_DEVICE=hltexx
 BUILD_FINGERPRINT="samsung/hltetmo/hltetmo:4.3/JSS15J/N900TUVUBMI7:user/release-keys" PRIVATE_BUILD_DESC="hltetmo-user 4.3 JSS15J N900TUVUBMI7 release-keys"
 
 PRODUCT_DEVICE := hltexx
-PRODUCT_NAME := cm_hltexx
+PRODUCT_NAME := carbon_hltexx
 
